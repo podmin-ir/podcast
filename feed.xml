@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <title>پادمین | Podmin</title>
+  <link>https://t.me/podmin_ir</link>
+  <atom:link href="https://podmin-ir.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>fa</language>
+  <copyright>© امین رنجبرفرد</copyright>
+  <itunes:author>امین رنجبرفرد</itunes:author>
+  <itunes:owner>
+    <itunes:name>امین رنجبرفرد</itunes:name>
+    <itunes:email>ab1399.l.l.g@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://podmin-ir.github.io/podcast/cover.jpg"/>
+  <image>
+    <url>https://podmin-ir.github.io/podcast/cover.jpg</url>
+    <title>پادمین | Podmin</title>
+    <link>https://t.me/podmin_ir</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
+  <itunes:category text="Education"><itunes:category text="Self-Improvement"/></itunes:category>
+  <itunes:category text="TV &amp; Film"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:subtitle>خیلی دور… خیلی نزدیک، با امین</itunes:subtitle>
+  <description><![CDATA[خیلی دور… خیلی نزدیک، با امین
+
+پادمین پادکستی است برای لحظه‌هایی که بی‌اختیار دکمه‌ی پاز را می‌زنیم؛ وسط یک فیلم، یک کتاب، یک گفت‌وگو.
+هر هفته یک فیلم را با هم مرور می‌کنیم، روی لحظه‌هایش مکث می‌کنیم و می‌بینیم چه چیزی از آن صحنه‌ها در زندگی و کار خودمان تکرار می‌شود؛ نه برای درس دادن، برای اینکه با هم کشفش کنیم.
+
+فصل اول: ارتباط
+کانال تلگرام: t.me/podmin_ir]]></description>
+  <itunes:summary><![CDATA[پادمین پادکستی است برای لحظه‌هایی که بی‌اختیار دکمه‌ی پاز را می‌زنیم. هر هفته یک فیلم، یک مکث، و یک گفت‌وگو درباره‌ی خودمان، کار و آدم‌ها. فصل اول: ارتباط. با امین رنجبرفرد.]]></itunes:summary>
+
+  <item>
+    <title>اپیزود ۱: ورود (Arrival)</title>
+    <itunes:title>ورود (Arrival)</itunes:title>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">podmin-s01e01</guid>
+    <pubDate>Mon, 26 Oct 2026 07:45:00 +0000</pubDate>
+    <enclosure url="https://podmin-ir.github.io/podcast/podmin-e01.mp3" length="22081234" type="audio/mpeg"/>
+    <itunes:duration>2193</itunes:duration>
+    <itunes:image href="https://podmin-ir.github.io/podcast/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[اگه از اول می‌دونستید یه رابطه کجا تموم می‌شه… باز هم شروعش می‌کردید؟
+
+در این اپیزود دکمه‌ی پاز را روی فیلم «ورود» (Arrival، دنی ویلنوو، ۲۰۱۶) می‌زنیم و سراغ یک سؤال ساده و سخت می‌رویم: چرا حتی وقتی زبانمان یکی است، همدیگر را نمی‌فهمیم؟
+
+- اعتماد بی‌چون‌وچرا و «بیست ثانیه» وقت خریدن
+- مثلث حافظه، زبان و ارتباط
+- زمان، جبر و داشتن اختیار
+- سوگ و انتخاب: زندگی با علم به پایان
+
+هفته‌ی بعد: «شکار» (The Hunt)
+
+خیلی دور… خیلی نزدیک، با امین
+کانال تلگرام: t.me/podmin_ir]]></description>
+  </item>
+
+  <item>
+    <title>اپیزود صفر: دکمه‌ی پاز</title>
+    <itunes:title>دکمه‌ی پاز</itunes:title>
+    <itunes:episode>0</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">podmin-s01e00</guid>
+    <pubDate>Mon, 19 Oct 2026 08:00:00 +0000</pubDate>
+    <enclosure url="https://podmin-ir.github.io/podcast/padmin-e00.mp3" length="11503042" type="audio/mpeg"/>
+    <itunes:duration>572</itunes:duration>
+    <itunes:image href="https://podmin-ir.github.io/podcast/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[اولین اپیزود پادمین؛ نه درباره‌ی یک فیلم، که درباره‌ی خودِ این مسیر.
+غرقگی یا فلو؛ لحظه‌هایی که زمان را گم می‌کنیم. دکمه‌ی پاز؛ مکث‌هایی که وسط یک فیلم، چیزی از زندگی خودمان را نشانمان می‌دهند. پادمین چیست، چرا شروع شد، و فصل اول با موضوع «ارتباط» قرار است ما را به کجا ببرد.
+
+خیلی دور… خیلی نزدیک، با امین
+کانال تلگرام: t.me/podmin_ir]]></description>
+  </item>
+</channel>
+</rss>
